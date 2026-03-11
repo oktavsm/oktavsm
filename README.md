@@ -1,4 +1,4 @@
-[![Okta's Profile Card](https://oktaavsm.bccdev.id/readme.svg?t=1773222357)](https://oktaavsm.bccdev.id)
+[![Okta's Profile Card](https://oktaavsm.bccdev.id/readme.svg?t=1773225724)](https://oktaavsm.bccdev.id)
 
 
 # 💫 About Me:
