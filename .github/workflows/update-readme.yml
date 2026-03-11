@@ -2,9 +2,8 @@ name: Refresh GitHub README
 
 on:
   schedule:
-    # Runs every 6 hours
     - cron: '0 */6 * * *'
-  workflow_dispatch:  # Allow manual trigger
+  workflow_dispatch:
 
 jobs:
   refresh:
@@ -21,10 +20,7 @@ jobs:
           TIMESTAMP=$(date +%s)
           sed -i "s|readme\.svg?t=[0-9]*|readme.svg?t=${TIMESTAMP}|g" README.md
 
-      - name: Trigger backend refresh (optional)
-        # Calls your server to pre-regenerate the SVG with fresh data
-        # Only runs if REFRESH_SECRET is set as a repo secret
-        if: ${{ secrets.REFRESH_SECRET != '' && secrets.SERVER_URL != '' }}
+      - name: Trigger backend refresh
         run: |
           curl -s -X POST "${{ secrets.SERVER_URL }}/api/refresh" \
             -H "x-refresh-secret: ${{ secrets.REFRESH_SECRET }}" \
