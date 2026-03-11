@@ -1,6 +1,8 @@
+[![Okta's Profile Card](https://oktaavsm.bccdev.id/readme.svg?t=0)](https://oktaavsm.bccdev.id)
+
+
 # 💫 About Me:
 📱 I'm currently working on personal and academic projects related to mobile development  <br>🤝 I'm looking to collaborate on beginner–intermediate mobile app projects  <br>🌱 I'm currently learning Android development and software engineering fundamentals  <br>💬 Ask me about Java, basic Android, and programming logic  <br>⚡ Fun fact: Enjoy turning ideas into simple apps
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oktaavsm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oktaavsm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oktaavsm@student.ub.ac.id) 
