@@ -29,3 +29,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- New Section-->
+![Daily Digest](https://oktaavsm.bccdev.id/todays/digest.svg)
