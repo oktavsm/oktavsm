@@ -23,10 +23,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=oktavsm&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 🗓️ Daily Digest
+[![Daily Digest](https://oktaavsm.bccdev.id/todays/digest.svg?t=1773294796)](https://oktaavsm.bccdev.id/todays)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=oktavsm&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Daily Digest SVG-->
-[![Daily Digest](https://oktaavsm.bccdev.id/todays/digest.svg)](https://oktaavsm.bccdev.id/todays)

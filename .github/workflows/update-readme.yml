@@ -19,6 +19,7 @@ jobs:
         run: |
           TIMESTAMP=$(date +%s)
           sed -i "s|readme\.svg?t=[0-9]*|readme.svg?t=${TIMESTAMP}|g" README.md
+          sed -i "s|digest\.svg?t=[0-9]*|digest.svg?t=${TIMESTAMP}|g" README.md
 
       - name: Trigger backend refresh
         run: |
