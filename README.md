@@ -1,4 +1,4 @@
-[![Okta's Profile Card](https://oktaavsm.bccdev.id/readme.svg?t=1775850555)](https://oktaavsm.bccdev.id)
+[![Okta's Profile Card](https://oktaavsm.bccdev.id/readme.svg?t=1775853641)](https://oktaavsm.bccdev.id)
 
 
 # 💫 About Me:
@@ -24,7 +24,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=oktavsm&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🗓️ Daily Digest
-[![Daily Digest](https://oktaavsm.bccdev.id/todays/digest.svg?t=1775850555)](https://oktaavsm.bccdev.id/todays)
+[![Daily Digest](https://oktaavsm.bccdev.id/todays/digest.svg?t=1775853641)](https://oktaavsm.bccdev.id/todays)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=oktavsm&icon=0&color=0)](https://visitcount.itsvg.in)
