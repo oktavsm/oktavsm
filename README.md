@@ -1,32 +1,69 @@
-[![Okta's Profile Card](https://oktaavsm.bccdev.id/readme.svg?t=1777647443)](https://oktaavsm.bccdev.id)
+<div align="center">
 
+<img src="https://oktaavsm.bccdev.id/readme/header.svg" width="100%" alt="hi, i'm Okta. Android dev, self-hoster, informatics student at Brawijaya University" />
 
-# 💫 About Me:
-📱 I'm currently working on personal and academic projects related to mobile development  <br>🤝 I'm looking to collaborate on beginner–intermediate mobile app projects  <br>🌱 I'm currently learning Android development and software engineering fundamentals  <br>💬 Ask me about Java, basic Android, and programming logic  <br>⚡ Fun fact: Enjoy turning ideas into simple apps
+<a href="https://oktaavsm.bccdev.id"><img src="https://oktaavsm.bccdev.id/readme.svg?t=1777647443" width="100%" alt="Okta's live profile card: weather in Malang, recently played, daily AI vibe" /></a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oktaavsm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oktaavsm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oktaavsm@student.ub.ac.id) 
+<sub>live card, rebuilt every hour on my own VM</sub>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=oktavsm&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=oktavsm&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oktavsm&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=oktavsm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-[![trophy](https://github-profile-trophy.vercel.app/?username=oktavsm)](https://github.com/oktavsm/github-profile-trophy)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### about me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=oktavsm&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- Building Android apps in **Kotlin** and **Jetpack Compose**, mostly for uni and Dicoding paths
+- Writing the backends they talk to: Node.js, hapi, TypeScript, a bit of Laravel
+- Running my own VM: Docker, nginx, n8n and a WhatsApp bot all live on it, and so does every image on this page
+- Currently poking at **MLOps** (predictive autoscaling) and CI/CD pipelines on AWS
+- Up for collaborating on beginner to intermediate mobile projects. Ask me about Java, Android, or why the server went down
 
-## 🗓️ Daily Digest
-[![Daily Digest](https://oktaavsm.bccdev.id/todays/digest.svg?t=1777647443)](https://oktaavsm.bccdev.id/todays)
+<p>
+  <a href="https://oktaavsm.bccdev.id"><img src="https://img.shields.io/badge/website-oktaavsm.bccdev.id-1c4232?style=flat-square&labelColor=0a2418&logo=googlechrome&logoColor=56cfaa" alt="website" /></a>
+  <a href="https://linkedin.com/in/oktaavsm"><img src="https://img.shields.io/badge/linkedin-oktaavsm-1c4232?style=flat-square&labelColor=0a2418&logo=linkedin&logoColor=56cfaa" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/oktaavsm"><img src="https://img.shields.io/badge/instagram-oktaavsm-1c4232?style=flat-square&labelColor=0a2418&logo=instagram&logoColor=56cfaa" alt="Instagram" /></a>
+  <a href="mailto:oktaavsm@student.ub.ac.id"><img src="https://img.shields.io/badge/email-oktaavsm@student.ub.ac.id-1c4232?style=flat-square&labelColor=0a2418&logo=gmail&logoColor=56cfaa" alt="email" /></a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=oktavsm&icon=0&color=0)](https://visitcount.itsvg.in)
+### stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+  <tr>
+    <td><sub><b>mobile</b></sub></td>
+    <td><img src="https://oktaavsm.bccdev.id/readme/stack-mobile.svg" height="40" alt="Kotlin, Java, Android Studio, Gradle, Firebase" /></td>
+  </tr>
+  <tr>
+    <td><sub><b>backend</b></sub></td>
+    <td><img src="https://oktaavsm.bccdev.id/readme/stack-backend.svg" height="40" alt="Node.js, TypeScript, JavaScript, Python, Express, Laravel, MySQL, PostgreSQL" /></td>
+  </tr>
+  <tr>
+    <td><sub><b>infra</b></sub></td>
+    <td><img src="https://oktaavsm.bccdev.id/readme/stack-infra.svg" height="40" alt="Docker, nginx, Linux, Bash, AWS, Google Cloud, GitHub Actions, Grafana" /></td>
+  </tr>
+  <tr>
+    <td><sub><b>also</b></sub></td>
+    <td><img src="https://oktaavsm.bccdev.id/readme/stack-tools.svg" height="40" alt="C++, C, OpenCV, scikit-learn, LaTeX, Figma, Git, Postman, Selenium" /></td>
+  </tr>
+</table>
+
+### github
+
+<div align="center">
+
+<img src="https://oktaavsm.bccdev.id/readme/cards/trophies.svg?t=1777647443" width="100%" alt="GitHub Trophies and Milestones: contributions, commits, repositories, PRs, polyglot, streak" />
+
+<img src="https://oktaavsm.bccdev.id/readme/cards/activity.svg?t=1777647443" width="100%" alt="Contribution heatmap, streaks, commits and pull requests over the last 12 months" />
+
+<img src="https://oktaavsm.bccdev.id/readme/cards/languages.svg?t=1777647443" width="49%" alt="Most used languages across my repositories" />
+<img src="https://oktaavsm.bccdev.id/readme/cards/repos.svg?t=1777647443" width="49%" alt="Recently pushed repositories" />
+
+</div>
+
+### daily digest
+
+<a href="https://oktaavsm.bccdev.id/todays"><img src="https://oktaavsm.bccdev.id/todays/digest.svg?t=1777647443" alt="Daily digest: Hacker News top stories and more" /></a>
+
+<div align="center">
+<br>
+<img src="https://komarev.com/ghpvc/?username=oktavsm&style=flat-square&color=2d9e6e&label=profile+views" alt="profile views" />
+<br>
+<sub>every card on this page is generated on my own server, not a shared vercel instance</sub>
+</div>
