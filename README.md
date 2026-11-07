@@ -2,7 +2,7 @@
 
 <img src="https://oktaavsm.bccdev.id/readme/header.svg" width="100%" alt="hi, i'm Okta. Android dev, self-hoster, informatics student at Brawijaya University" />
 
-<a href="https://oktaavsm.bccdev.id"><img src="https://oktaavsm.bccdev.id/readme.svg?t=1794081059" width="100%" alt="Okta's live profile card: weather in Malang, recently played, daily AI vibe" /></a>
+<a href="https://oktaavsm.bccdev.id"><img src="https://oktaavsm.bccdev.id/readme.svg?t=1794093163" width="100%" alt="Okta's live profile card: weather in Malang, recently played, daily AI vibe" /></a>
 
 <sub>live card, rebuilt every hour on my own VM</sub>
 
@@ -48,18 +48,18 @@
 
 <div align="center">
 
-<img src="https://oktaavsm.bccdev.id/readme/cards/trophies.svg?t=1794081059" width="100%" alt="GitHub Trophies and Milestones: contributions, commits, repositories, PRs, polyglot, streak" />
+<img src="https://oktaavsm.bccdev.id/readme/cards/trophies.svg?t=1794093163" width="100%" alt="GitHub Trophies and Milestones: contributions, commits, repositories, PRs, polyglot, streak" />
 
-<img src="https://oktaavsm.bccdev.id/readme/cards/activity.svg?t=1794081059" width="100%" alt="Contribution heatmap, streaks, commits and pull requests over the last 12 months" />
+<img src="https://oktaavsm.bccdev.id/readme/cards/activity.svg?t=1794093163" width="100%" alt="Contribution heatmap, streaks, commits and pull requests over the last 12 months" />
 
-<img src="https://oktaavsm.bccdev.id/readme/cards/languages.svg?t=1794081059" width="49%" alt="Most used languages across my repositories" />
-<img src="https://oktaavsm.bccdev.id/readme/cards/repos.svg?t=1794081059" width="49%" alt="Recently pushed repositories" />
+<img src="https://oktaavsm.bccdev.id/readme/cards/languages.svg?t=1794093163" width="49%" alt="Most used languages across my repositories" />
+<img src="https://oktaavsm.bccdev.id/readme/cards/repos.svg?t=1794093163" width="49%" alt="Recently pushed repositories" />
 
 </div>
 
 ### daily digest
 
-<a href="https://oktaavsm.bccdev.id/todays"><img src="https://oktaavsm.bccdev.id/todays/digest.svg?t=1794081059" alt="Daily digest: Hacker News top stories and more" /></a>
+<a href="https://oktaavsm.bccdev.id/todays"><img src="https://oktaavsm.bccdev.id/todays/digest.svg?t=1794093163" alt="Daily digest: Hacker News top stories and more" /></a>
 
 <div align="center">
 <br>
