@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://oktaavsm.bccdev.id/readme/header.svg?t=1795586983" width="100%" alt="Hi, I'm Okta. Android engineering, agy-tern native Tern frontend, and self-hosted infra" />
+<a href="https://muelsm.site"><img src="https://oktaavsm.bccdev.id/readme/header.svg?t=1795587800" width="100%" alt="Hi, I'm Okta. Android engineering, agy-tern native Tern frontend, and self-hosted infra" /></a>
 
-<a href="https://oktaavsm.bccdev.id"><img src="https://oktaavsm.bccdev.id/readme.svg?t=1795586983" width="100%" alt="Okta live telemetry card: Malang weather, audio playback, daily note, and daily roast" /></a>
+<a href="https://muelsm.site"><img src="https://oktaavsm.bccdev.id/readme.svg?t=1795587800" width="100%" alt="Okta live telemetry card: Malang weather, audio playback, daily note, and daily roast" /></a>
 
 <sub>Tern Dark / OMP design system · live cards rendered on my own VM</sub>
 
@@ -17,7 +17,7 @@
 - Up for collaborating on Android apps, terminal UIs, or backend tooling
 
 <p>
-  <a href="https://oktaavsm.bccdev.id"><img src="https://img.shields.io/badge/website-oktaavsm.bccdev.id-21242c?style=flat-square&labelColor=0f1216&logo=googlechrome&logoColor=00b4ff" alt="website" /></a>
+  <a href="https://muelsm.site"><img src="https://img.shields.io/badge/website-muelsm.site-21242c?style=flat-square&labelColor=0f1216&logo=googlechrome&logoColor=00b4ff" alt="website" /></a>
   <a href="https://github.com/oktavsm/agy-tern"><img src="https://img.shields.io/badge/project-agy--tern-21242c?style=flat-square&labelColor=0f1216&logo=gnometerminal&logoColor=00b4ff" alt="agy-tern" /></a>
   <a href="https://linkedin.com/in/oktaavsm"><img src="https://img.shields.io/badge/linkedin-oktaavsm-21242c?style=flat-square&labelColor=0f1216&logo=linkedin&logoColor=00b4ff" alt="LinkedIn" /></a>
   <a href="https://instagram.com/oktaavsm"><img src="https://img.shields.io/badge/instagram-oktaavsm-21242c?style=flat-square&labelColor=0f1216&logo=instagram&logoColor=00b4ff" alt="Instagram" /></a>
