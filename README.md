@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://muelsm.site"><img src="https://oktaavsm.bccdev.id/readme/header.svg?t=1795587800" width="100%" alt="Hi, I'm Okta. Android engineering, agy-tern native Tern frontend, and self-hosted infra" /></a>
+<a href="https://muelsm.site"><img src="https://oktaavsm.bccdev.id/readme/header.svg?t=1795588684" width="100%" alt="Hi, I'm Okta. Android engineering, agy-tern native Tern frontend, and self-hosted infra" /></a>
 
-<a href="https://muelsm.site"><img src="https://oktaavsm.bccdev.id/readme.svg?t=1795587800" width="100%" alt="Okta live telemetry card: Malang weather, audio playback, daily note, and daily roast" /></a>
+<a href="https://muelsm.site"><img src="https://oktaavsm.bccdev.id/readme.svg?t=1795588684" width="100%" alt="Okta live telemetry card: Malang weather, audio playback, daily note, and daily roast" /></a>
 
 <sub>Tern Dark / OMP design system · live cards rendered on my own VM</sub>
 
@@ -29,19 +29,19 @@
 <table>
   <tr>
     <td><sub><b>mobile</b></sub></td>
-    <td><img src="https://oktaavsm.bccdev.id/readme/stack-mobile.svg?t=1795586983" height="40" alt="Kotlin, Java, Android Studio, Gradle, Firebase" /></td>
+    <td><img src="https://oktaavsm.bccdev.id/readme/stack-mobile.svg?t=1795588684" height="40" alt="Kotlin, Java, Android Studio, Gradle, Firebase" /></td>
   </tr>
   <tr>
     <td><sub><b>backend</b></sub></td>
-    <td><img src="https://oktaavsm.bccdev.id/readme/stack-backend.svg?t=1795586983" height="40" alt="Node.js, TypeScript, JavaScript, Python, Express, Laravel, MySQL, PostgreSQL" /></td>
+    <td><img src="https://oktaavsm.bccdev.id/readme/stack-backend.svg?t=1795588684" height="40" alt="Node.js, TypeScript, JavaScript, Python, Express, Laravel, MySQL, PostgreSQL" /></td>
   </tr>
   <tr>
     <td><sub><b>infra</b></sub></td>
-    <td><img src="https://oktaavsm.bccdev.id/readme/stack-infra.svg?t=1795586983" height="40" alt="Docker, nginx, Linux, Bash, AWS, Google Cloud, GitHub Actions, Grafana" /></td>
+    <td><img src="https://oktaavsm.bccdev.id/readme/stack-infra.svg?t=1795588684" height="40" alt="Docker, nginx, Linux, Bash, AWS, Google Cloud, GitHub Actions, Grafana" /></td>
   </tr>
   <tr>
     <td><sub><b>tools</b></sub></td>
-    <td><img src="https://oktaavsm.bccdev.id/readme/stack-tools.svg?t=1795586983" height="40" alt="C++, C, OpenCV, scikit-learn, LaTeX, Figma, Git, Postman, Selenium" /></td>
+    <td><img src="https://oktaavsm.bccdev.id/readme/stack-tools.svg?t=1795588684" height="40" alt="C++, C, OpenCV, scikit-learn, LaTeX, Figma, Git, Postman, Selenium" /></td>
   </tr>
 </table>
 
@@ -49,18 +49,18 @@
 
 <div align="center">
 
-<img src="https://oktaavsm.bccdev.id/readme/cards/trophies.svg?t=1795586983" width="100%" alt="GitHub milestones: contributions, commits, repositories, PRs, polyglot, streak" />
+<img src="https://oktaavsm.bccdev.id/readme/cards/trophies.svg?t=1795588684" width="100%" alt="GitHub milestones: contributions, commits, repositories, PRs, polyglot, streak" />
 
-<img src="https://oktaavsm.bccdev.id/readme/cards/activity.svg?t=1795586983" width="100%" alt="Contribution heatmap, streaks, commits and pull requests over the last 12 months" />
+<img src="https://oktaavsm.bccdev.id/readme/cards/activity.svg?t=1795588684" width="100%" alt="Contribution heatmap, streaks, commits and pull requests over the last 12 months" />
 
-<img src="https://oktaavsm.bccdev.id/readme/cards/languages.svg?t=1795586983" width="49%" alt="Most used languages across my repositories" />
-<img src="https://oktaavsm.bccdev.id/readme/cards/repos.svg?t=1795586983" width="49%" alt="Recently pushed repositories" />
+<img src="https://oktaavsm.bccdev.id/readme/cards/languages.svg?t=1795588684" width="49%" alt="Most used languages across my repositories" />
+<img src="https://oktaavsm.bccdev.id/readme/cards/repos.svg?t=1795588684" width="49%" alt="Recently pushed repositories" />
 
 </div>
 
 ### daily digest
 
-<a href="https://oktaavsm.bccdev.id/todays"><img src="https://oktaavsm.bccdev.id/todays/digest.svg?t=1795586983" alt="Daily digest: Hacker News top stories and Android concepts" /></a>
+<a href="https://oktaavsm.bccdev.id/todays"><img src="https://oktaavsm.bccdev.id/todays/digest.svg?t=1795588684" alt="Daily digest: Hacker News top stories and Android concepts" /></a>
 
 <div align="center">
 <br>
